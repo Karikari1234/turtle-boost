@@ -90,5 +90,6 @@
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
-    }
+    },
+    "domain": "https://turtle-boost-0f6c6.netlify.app"
 }
