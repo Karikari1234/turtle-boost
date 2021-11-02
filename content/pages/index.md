@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: TurtleBoost
-    subtitle: Conference for Creative People
+    subtitle: We create value
     content: '**April 14 - 16, 2021**'
     actions:
       - label: Get Your Ticket Today!
