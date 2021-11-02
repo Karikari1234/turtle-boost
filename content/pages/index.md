@@ -4,7 +4,8 @@ sections:
   - type: hero_section
     title: TurtleBoost
     subtitle: We create value
-    content: '**April 14 - 16, 2021**'
+    content: |
+      **Always solving important problems**
     actions:
       - label: Get Your Ticket Today!
         url: /about
