@@ -7,7 +7,7 @@ sections:
     content: |
       **Always solving important problems**
     actions:
-      - label: Get Your Ticket Today!
+      - label: Connect with us
         url: /about
         style: primary
     align: center
